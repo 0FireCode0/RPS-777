@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Дом питомца" />
+    <item
+        android:id="@+id/nav_studio"
+        android:icon="@drawable/ic_studio"
+        android:title="Студия блога" />
+    <item
+        android:id="@+id/nav_shop"
+        android:icon="@drawable/ic_shop"
+        android:title="Магазин" />
+    <item
+        android:id="@+id/nav_wallet"
+        android:icon="@drawable/ic_wallet"
+        android:title="Распределение" />
+    <item
+        android:id="@+id/nav_money_school"
+        android:icon="@drawable/ic_money_school"
+        android:title="Школа денег" />
+    <item
+        android:id="@+id/nav_achievements"
+        android:icon="@drawable/ic_achievements"
+        android:title="Достижения" />
+
+    <item
+        android:id="@+id/nav_achievements2"
+        android:icon="@drawable/ic_achievements"
+        android:title="Достижения" />
+</menu>
