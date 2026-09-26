@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group_game">
+        <!-- Блок игра -->
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Дом питомца" />
+        <item
+            android:id="@+id/nav_studio"
+            android:icon="@drawable/ic_studio"
+            android:title="Студия блога" />
+        <item
+            android:id="@+id/nav_shop"
+            android:icon="@drawable/ic_shop"
+            android:title="Магазин" />
+
+        <item
+            android:id="@+id/nav_wardrobe"
+            android:icon="@drawable/ic_wardrobe"
+            android:title="Гардероб" />
+    </group>
+
+    <!-- Блок деньги -->
+    <group
+        android:id="@+id/group_money">
+
+
+        <!-- Синий кружок вместо иконки -->
+        <item
+            android:id="@+id/nav_need_money"
+            android:icon="@drawable/circle_blue"
+            android:title="Нужное" />
+
+        <!-- Зелёный кружок вместо иконки -->
+        <item
+            android:id="@+id/nav_moneybox"
+            android:icon="@drawable/circle_green"
+            android:title="Копилка" />
+
+        <!-- Красный кружок вместо иконки -->
+        <item
+            android:id="@+id/nav_wants"
+            android:icon="@drawable/circle_red"
+            android:title="Хотелки" />
+        <item
+            android:id="@+id/nav_wallet"
+            android:icon="@drawable/ic_wallet"
+            android:title="Распределение" />
+
+
+    </group>
+
+    <group
+        android:id="@+id/group_education">
+        <!-- Блок обучение -->
+        <item
+            android:id="@+id/nav_money_school"
+            android:icon="@drawable/ic_money_school"
+            android:title="Школа денег" />
+        <item
+            android:id="@+id/nav_achievements"
+            android:icon="@drawable/ic_achievements"
+            android:title="Достижения" />
+        <item
+            android:id="@+id/nav_report"
+            android:icon="@drawable/ic_chart"
+            android:title="Отчёт недели" />
+    </group>
+
+    <group
+        android:id="@+id/group_other">
+
+        <!-- Блок ещё -->
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="Настройки" />
+        <item
+            android:id="@+id/nav_parental_control"
+            android:icon="@drawable/ic_user"
+            android:title="Родителям" />
+    </group>
+
+</menu>

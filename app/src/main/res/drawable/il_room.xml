@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Комната-сцена 844×390. Растягивается на весь экран под HUD. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="844dp"
+    android:height="390dp"
+    android:viewportWidth="844"
+    android:viewportHeight="390">
+
+    <!-- стена, пол, плинтус -->
+    <path
+        android:pathData="M0,0h844v390h-844Z"
+        android:fillColor="#FFF3ECE2" />
+    <path
+        android:pathData="M0,264h844v126h-844Z"
+        android:fillColor="#FFE7DAC7" />
+    <path
+        android:pathData="M0,259h844v6h-844Z"
+        android:fillColor="#FFD7C6AE" />
+
+    <!-- окно -->
+    <path
+        android:pathData="M109,44h122a13,13 0 0 1 13,13v104a13,13 0 0 1 -13,13h-122a13,13 0 0 1 -13,-13v-104a13,13 0 0 1 13,-13Z"
+        android:fillColor="#FFFFFFFF" />
+    <path
+        android:pathData="M111,52h118a7,7 0 0 1 7,7v100a7,7 0 0 1 -7,7h-118a7,7 0 0 1 -7,-7v-100a7,7 0 0 1 7,-7Z"
+        android:fillColor="#FFDBEAF7" />
+    <path
+        android:pathData="M120,86a17,17 0 1 0 34,0a17,17 0 1 0 -34,0Z"
+        android:fillColor="#FFF8F0DA" />
+    <path
+        android:pathData="M171,130a29,12 0 1 0 58,0a29,12 0 1 0 -58,0Z"
+        android:fillColor="#FFFFFFFF"
+        android:fillAlpha="0.85" />
+    <path
+        android:pathData="M157,123a19,9 0 1 0 38,0a19,9 0 1 0 -38,0Z"
+        android:fillColor="#FFFFFFFF"
+        android:fillAlpha="0.85" />
+    <path
+        android:pathData="M168,52h4v114h-4Z"
+        android:fillColor="#FFFFFFFF" />
+    <path
+        android:pathData="M104,107h132v4h-132Z"
+        android:fillColor="#FFFFFFFF" />
+
+    <!-- кольцевой свет -->
+    <path
+        android:pathData="M500.5,206h0a3.5,3.5 0 0 1 3.5,3.5v77a3.5,3.5 0 0 1 -3.5,3.5h0a3.5,3.5 0 0 1 -3.5,-3.5v-77a3.5,3.5 0 0 1 3.5,-3.5Z"
+        android:fillColor="#FFC9BEB0" />
+    <path
+        android:pathData="M486,292h29"
+        android:strokeColor="#FFC9BEB0"
+        android:strokeWidth="7"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M469,180a31,31 0 1 0 62,0a31,31 0 1 0 -62,0Z"
+        android:strokeColor="#FFF9F2E1"
+        android:strokeWidth="12" />
+    <path
+        android:pathData="M469,180a31,31 0 1 0 62,0a31,31 0 1 0 -62,0Z"
+        android:strokeColor="#FFEBDCB2"
+        android:strokeWidth="2" />
+
+    <!-- растение на полу -->
+    <group
+        android:translateX="76"
+        android:translateY="198">
+        <path
+            android:pathData="M13,26a9,24 0 1 0 18,0a9,24 0 1 0 -18,0Z"
+            android:fillColor="#FF8ACBB0" />
+        <group
+            android:rotation="-24"
+            android:pivotX="10"
+            android:pivotY="34">
+            <path
+                android:pathData="M1,34a9,20 0 1 0 18,0a9,20 0 1 0 -18,0Z"
+                android:fillColor="#FF7FC0A3" />
+        </group>
+        <group
+            android:rotation="20"
+            android:pivotX="34"
+            android:pivotY="32">
+            <path
+                android:pathData="M25,32a9,21 0 1 0 18,0a9,21 0 1 0 -18,0Z"
+                android:fillColor="#FF6BB393" />
+        </group>
+        <path
+            android:pathData="M6,52h32l-4,40H10Z"
+            android:fillColor="#FFD89B72" />
+    </group>
+
+    <!-- ковёр -->
+    <path
+        android:pathData="M146,330a206,46 0 1 0 412,0a206,46 0 1 0 -412,0Z"
+        android:fillColor="#FFE5E0F6" />
+    <path
+        android:pathData="M194,330a158,34 0 1 0 316,0a158,34 0 1 0 -316,0Z"
+        android:fillColor="#FFEFEBFA" />
+</vector>

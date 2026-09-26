@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Сова Копилка — наставник. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="40dp"
+    android:height="40dp"
+    android:viewportWidth="40"
+    android:viewportHeight="40">
+    <path
+        android:pathData="M7,22a13,14 0 1 0 26,0a13,14 0 1 0 -26,0Z"
+        android:fillColor="#FF8B7BEF" />
+    <path
+        android:pathData="M7.5,13.5 8,5.5 15,10.5Z"
+        android:fillColor="#FF8B7BEF" />
+    <path
+        android:pathData="M32.5,13.5 32,5.5 25,10.5Z"
+        android:fillColor="#FF8B7BEF" />
+    <path
+        android:pathData="M11.5,26a8.5,9 0 1 0 17,0a8.5,9 0 1 0 -17,0Z"
+        android:fillColor="#FFEFECFF" />
+    <path
+        android:pathData="M8.5,18a6,6 0 1 0 12,0a6,6 0 1 0 -12,0Z"
+        android:fillColor="#FFFFFFFF" />
+    <path
+        android:pathData="M19.5,18a6,6 0 1 0 12,0a6,6 0 1 0 -12,0Z"
+        android:fillColor="#FFFFFFFF" />
+    <path
+        android:pathData="M11.7,18.5a2.8,2.8 0 1 0 5.6,0a2.8,2.8 0 1 0 -5.6,0Z"
+        android:fillColor="#FF33261B" />
+    <path
+        android:pathData="M22.7,18.5a2.8,2.8 0 1 0 5.6,0a2.8,2.8 0 1 0 -5.6,0Z"
+        android:fillColor="#FF33261B" />
+    <path
+        android:pathData="M20,21.5 17.5,25h5Z"
+        android:fillColor="#FFE8912A" />
+    <path
+        android:pathData="M15,35.5h3M22,35.5h3"
+        android:strokeColor="#FFE8912A"
+        android:strokeWidth="2.4"
+        android:strokeLineCap="round" />
+</vector>

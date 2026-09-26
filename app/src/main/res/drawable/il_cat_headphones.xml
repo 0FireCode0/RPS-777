@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Мурчик — кот-блогер. Конвертирован из SVG прототипа. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+
+    <!-- хвост -->
+    <path
+        android:pathData="M170,196 C214,196 224,152 200,128 C188,116 168,122 171,138 C174,151 192,150 192,163 C192,180 178,186 166,186 Z"
+        android:fillColor="#FFE28F3E" />
+
+    <!-- туловище, живот, лапы -->
+    <path
+        android:pathData="M64,184a56,44 0 1 0 112,0a56,44 0 1 0 -112,0Z"
+        android:fillColor="#FFF0A054" />
+    <path
+        android:pathData="M86,194a34,30 0 1 0 68,0a34,30 0 1 0 -68,0Z"
+        android:fillColor="#FFFFEAD2" />
+    <path
+        android:pathData="M74,216a18,11 0 1 0 36,0a18,11 0 1 0 -36,0Z"
+        android:fillColor="#FFFFEAD2" />
+    <path
+        android:pathData="M130,216a18,11 0 1 0 36,0a18,11 0 1 0 -36,0Z"
+        android:fillColor="#FFFFEAD2" />
+
+    <!-- уши -->
+    <path
+        android:pathData="M66,78 L63,28 L106,56 Z"
+        android:fillColor="#FFF0A054" />
+    <path
+        android:pathData="M77,71 L76,44 L97,60 Z"
+        android:fillColor="#FFFFB6BC" />
+    <path
+        android:pathData="M174,78 L177,28 L134,56 Z"
+        android:fillColor="#FFF0A054" />
+    <path
+        android:pathData="M163,71 L164,44 L143,60 Z"
+        android:fillColor="#FFFFB6BC" />
+
+    <!-- голова -->
+    <path
+        android:pathData="M60,106a60,52 0 1 0 120,0a60,52 0 1 0 -120,0Z"
+        android:fillColor="#FFF0A054" />
+
+    <!-- полоски на лбу -->
+    <path
+        android:pathData="M104,62 L99,76"
+        android:strokeColor="#FFDD8A32"
+        android:strokeWidth="6"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M120,58 L120,74"
+        android:strokeColor="#FFDD8A32"
+        android:strokeWidth="6"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M136,62 L141,76"
+        android:strokeColor="#FFDD8A32"
+        android:strokeWidth="6"
+        android:strokeLineCap="round" />
+
+    <!-- мордочка -->
+    <path
+        android:pathData="M85,128a35,24 0 1 0 70,0a35,24 0 1 0 -70,0Z"
+        android:fillColor="#FFFFF5E8" />
+
+    <!-- глаза -->
+    <path
+        android:pathData="M85.5,102a12.5,14.5 0 1 0 25,0a12.5,14.5 0 1 0 -25,0Z"
+        android:fillColor="#FF33261B" />
+    <path
+        android:pathData="M129.5,102a12.5,14.5 0 1 0 25,0a12.5,14.5 0 1 0 -25,0Z"
+        android:fillColor="#FF33261B" />
+    <path
+        android:pathData="M97.6,96a4.4,4.4 0 1 0 8.8,0a4.4,4.4 0 1 0 -8.8,0Z"
+        android:fillColor="#FFFFFFFF" />
+    <path
+        android:pathData="M141.6,96a4.4,4.4 0 1 0 8.8,0a4.4,4.4 0 1 0 -8.8,0Z"
+        android:fillColor="#FFFFFFFF" />
+
+    <!-- румянец -->
+    <path
+        android:pathData="M68,122a10,6.5 0 1 0 20,0a10,6.5 0 1 0 -20,0Z"
+        android:fillColor="#FFFF9AAB"
+        android:fillAlpha="0.45" />
+    <path
+        android:pathData="M152,122a10,6.5 0 1 0 20,0a10,6.5 0 1 0 -20,0Z"
+        android:fillColor="#FFFF9AAB"
+        android:fillAlpha="0.45" />
+
+    <!-- нос и рот -->
+    <path
+        android:pathData="M113,120 h14 a3,3 0 0 1 2.4,4.8 l-7,8 a3,3 0 0 1 -4.8,0 l-7,-8 a3,3 0 0 1 2.4,-4.8 Z"
+        android:fillColor="#FFFF8DA0" />
+    <path
+        android:pathData="M120,133 q0,8 -9,8 M120,133 q0,8 9,8"
+        android:strokeColor="#FF33261B"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round" />
+
+    <!-- усы -->
+    <path
+        android:pathData="M86,124 L54,115"
+        android:strokeColor="#FF8A5320"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:strokeAlpha="0.8" />
+    <path
+        android:pathData="M86,133 L54,137"
+        android:strokeColor="#FF8A5320"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:strokeAlpha="0.8" />
+    <path
+        android:pathData="M154,124 L186,115"
+        android:strokeColor="#FF8A5320"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:strokeAlpha="0.8" />
+    <path
+        android:pathData="M154,133 L186,137"
+        android:strokeColor="#FF8A5320"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:strokeAlpha="0.8" />
+
+    <!-- наушники -->
+    <path
+        android:pathData="M52,106 Q120,16 188,106"
+        android:strokeColor="#FF6C5CE7"
+        android:strokeWidth="9"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M51.5,94h0a13.5,13.5 0 0 1 13.5,13.5v14a13.5,13.5 0 0 1 -13.5,13.5h0a13.5,13.5 0 0 1 -13.5,-13.5v-14a13.5,13.5 0 0 1 13.5,-13.5Z"
+        android:fillColor="#FF5B4BD6" />
+    <path
+        android:pathData="M188.5,94h0a13.5,13.5 0 0 1 13.5,13.5v14a13.5,13.5 0 0 1 -13.5,13.5h0a13.5,13.5 0 0 1 -13.5,-13.5v-14a13.5,13.5 0 0 1 13.5,-13.5Z"
+        android:fillColor="#FF5B4BD6" />
+</vector>
