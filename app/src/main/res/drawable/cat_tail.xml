@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Мурчик — кот-блогер. Конвертирован из SVG прототипа. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+
+    <!-- хвост -->
+    <path
+        android:pathData="M170,196 C214,196 224,152 200,128 C188,116 168,122 171,138 C174,151 192,150 192,163 C192,180 178,186 166,186 Z"
+        android:fillColor="#FFE28F3E" />
+
+</vector>
