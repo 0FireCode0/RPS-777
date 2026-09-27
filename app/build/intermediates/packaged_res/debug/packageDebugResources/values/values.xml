@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="gold">#E6902A</color>
+    <color name="ic_launcher_background">#F0A054</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Economic</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="Base.Theme.Economic" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="BottomMenuText" parent="TextAppearance.Material3.LabelMedium">
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="CompactIndicatorShape" parent="ShapeAppearance.Material3.Corner.Small">
+        <item name="cornerSize">6dp</item>
+    </style>
+    <style name="CompactIndicatorStyle" parent="">
+        <item name="android:width">34dp</item>
+        <item name="android:height">34dp</item>
+        <item name="marginHorizontal">10dp</item>
+        <item name="android:color">#6B5BE4</item>
+        <item name="shapeAppearance">@style/CompactIndicatorShape</item>
+    </style>
+    <style name="CompactIndicatorStyleVertical" parent="">
+        <item name="android:width">50dp</item>
+        <item name="android:height">50dp</item>
+        <item name="marginHorizontal">5dp</item>
+        <item name="android:color">#6B5BE4</item>
+        <item name="shapeAppearance">@style/CompactIndicatorShape</item>
+    </style>
+    <style name="MenuPanelIcon">
+        <item name="android:layout_width">20dp</item>
+        <item name="android:layout_height">20dp</item>
+        <item name="android:layout_marginRight">9dp</item>
+    </style>
+    <style name="MenuPanelItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">32dp</item>
+        <item name="android:paddingLeft">9dp</item>
+        <item name="android:paddingRight">9dp</item>
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:paddingBottom">6dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@drawable/menu_item_background</item>
+    </style>
+    <style name="MenuPanelText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#4A4652</item>
+        <item name="android:maxLines">1</item>
+    </style>
+    <style name="TextViewStyleNight">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="Theme.Economic" parent="Base.Theme.Economic"/>
+</resources>

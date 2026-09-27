@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_circle_blue.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\circle_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_murchik_avatar.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_murchik_avatar.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\xml_backup_rules.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_toy.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_toy.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\layout_fragment_main.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_room.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_room.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_burger_menu.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_burger_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_cat_arm.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\cat_arm.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_receipt.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_receipt.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\color_menu_panel.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\color\\menu_panel.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_flame.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_flame.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_menu_item_background.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\menu_item_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_icon.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_sparkle.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_sparkle.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_icon_svg.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\icon_svg.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_bowl.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_bowl.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_settings.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\layout_fragment_achievements.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\layout\\fragment_achievements.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\menu_bottom_nav_menu.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_bolt.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_bolt.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_target.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_target.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\layout-land_fragment_money_school.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\layout-land\\fragment_money_school.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\layout-land_fragment_main.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\layout-land\\fragment_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_il_acc_crown.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\il_acc_crown.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_accessory_hat_red.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\accessory_hat_red.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_il_room.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\il_room.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_il_chest.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\il_chest.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_il_owl.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\il_owl.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\menu_shell_menu.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\menu\\shell_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_coin.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_coin.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_user.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_wallet.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_wallet.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_smile.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_smile.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\layout_fragment_animal.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\layout\\fragment_animal.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\layout_fragment_studio.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\layout\\fragment_studio.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_il_acc_scarf.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\il_acc_scarf.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_home.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_wardrobe.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_wardrobe.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_video.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_video.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_studio.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_studio.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_achievements.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_achievements.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_piggy.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_piggy.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_circle_green.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\circle_green.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_crown.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_crown.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\layout-land_fragment_achievements.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\layout-land\\fragment_achievements.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_action_card_background.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\action_card_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_shower.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_shower.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_shop.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_shop.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\layout_fragment_shop.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\layout\\fragment_shop.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_close.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_cat_ear_left.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\cat_ear_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\layout-land_fragment_wallet.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\layout-land\\fragment_wallet.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_chart.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_chart.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_cat_ear_right.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\cat_ear_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\layout-land_activity_main.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_money_school.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_money_school.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_il_cat_headphones.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\il_cat_headphones.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\layout_fragment_money_school.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\layout\\fragment_money_school.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\layout_fragment_wallet.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\layout\\fragment_wallet.xml"
+    },
+    {
+        "merged": "org.top.economic.app-debug-40:/menu_shell_menu.xml.flat",
+        "source": "org.top.economic.app-main-42:/menu/shell_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_moon.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_moon.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_cat_body.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\cat_body.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_ic_drop.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\ic_drop.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_cat_head.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\cat_head.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\layout-land_fragment_shop.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\layout-land\\fragment_shop.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_circle_red.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\circle_red.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_il_acc_glasses.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\il_acc_glasses.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\drawable_cat_tail.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\drawable\\cat_tail.xml"
+    },
+    {
+        "merged": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-debug-40:\\layout-land_fragment_studio.xml.flat",
+        "source": "D:\\AndroidConfig\\.gradle\\daemon\\9.5.0\\org.top.economic.app-main-42:\\layout-land\\fragment_studio.xml"
+    }
+]

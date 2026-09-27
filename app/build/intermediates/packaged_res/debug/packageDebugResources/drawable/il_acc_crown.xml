@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Корона. Накладывается поверх il_cat_plain в той же сетке 240×240. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+    <path
+        android:pathData="M78,56 L96,80 L120,42 L144,80 L162,56 L154,92 H86 Z"
+        android:fillColor="#FFFFC844" />
+    <path
+        android:pathData="M84,84h72v10h-72Z"
+        android:fillColor="#FFE8A81F" />
+    <path
+        android:pathData="M72,52a6,6 0 1 0 12,0a6,6 0 1 0 -12,0Z"
+        android:fillColor="#FFFFD976" />
+    <path
+        android:pathData="M156,52a6,6 0 1 0 12,0a6,6 0 1 0 -12,0Z"
+        android:fillColor="#FFFFD976" />
+    <path
+        android:pathData="M114,38a6,6 0 1 0 12,0a6,6 0 1 0 -12,0Z"
+        android:fillColor="#FFFF8DA0" />
+</vector>

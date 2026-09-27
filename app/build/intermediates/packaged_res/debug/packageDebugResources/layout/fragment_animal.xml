@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/character_root"
+    android:layout_width="240dp"
+    android:layout_height="240dp"
+    android:clipChildren="false"
+    android:clipToPadding="false">
+
+
+    <!-- ===================================================== -->
+    <!-- ХВОСТ                                                -->
+    <!-- ===================================================== -->
+
+    <FrameLayout
+        android:id="@+id/tail_bone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <ImageView
+            android:id="@+id/animal_tail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:contentDescription="@null" />
+
+    </FrameLayout>
+
+
+    <!-- ===================================================== -->
+    <!-- ТЕЛО                                                 -->
+    <!-- ===================================================== -->
+
+    <FrameLayout
+        android:id="@+id/body_bone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <ImageView
+            android:id="@+id/animal_body"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:contentDescription="@null" />
+
+    </FrameLayout>
+
+
+    <!-- ===================================================== -->
+    <!-- РУКА                                                 -->
+    <!-- ===================================================== -->
+
+    <FrameLayout
+        android:id="@+id/arm_bone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <ImageView
+            android:id="@+id/animal_arm"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:contentDescription="@null" />
+
+
+        <!-- Аксессуары руки -->
+
+        <FrameLayout
+            android:id="@+id/wrist_slot"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipChildren="false"
+            android:clipToPadding="false" />
+
+    </FrameLayout>
+
+
+    <!-- ===================================================== -->
+    <!-- ГОЛОВА                                                -->
+    <!-- ===================================================== -->
+
+    <FrameLayout
+        android:id="@+id/head_bone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+
+        <!-- УШИ -->
+
+        <ImageView
+            android:id="@+id/animal_ear_left"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:contentDescription="@null" />
+
+        <ImageView
+            android:id="@+id/animal_ear_right"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:contentDescription="@null" />
+
+
+        <!-- ГОЛОВА -->
+
+        <ImageView
+            android:id="@+id/animal_head"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:contentDescription="@null" />
+
+
+        <!-- ШЛЯПА / ШЛЕМ -->
+
+        <FrameLayout
+            android:id="@+id/headwear_slot"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipChildren="false"
+            android:clipToPadding="false" />
+
+
+        <!-- НАУШНИКИ -->
+
+        <FrameLayout
+            android:id="@+id/headphones_slot"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipChildren="false"
+            android:clipToPadding="false" />
+
+
+        <!-- ОЧКИ -->
+
+        <FrameLayout
+            android:id="@+id/glasses_slot"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipChildren="false"
+            android:clipToPadding="false" />
+
+    </FrameLayout>
+
+</FrameLayout>
