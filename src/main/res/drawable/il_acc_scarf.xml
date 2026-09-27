@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Шарф. Накладывается поверх il_cat_plain в той же сетке 240×240. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+    <path
+        android:pathData="M78,152 q42,24 84,0 l6,20 q-48,26 -96,0 Z"
+        android:fillColor="#FFF2506B" />
+    <path
+        android:pathData="M150,168 l20,36 -20,6 -8,-34 Z"
+        android:fillColor="#FFD93E58" />
+</vector>
